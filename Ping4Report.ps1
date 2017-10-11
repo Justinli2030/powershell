@@ -1,4 +1,5 @@
-﻿param ([string]$network)
+#include some edits here
+param ([string]$network)
 
 . ".\testport.ps1"
 . "..\sendemail\sendo.ps1"
